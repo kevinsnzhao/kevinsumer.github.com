@@ -1,0 +1,3 @@
+#lgnore all logfiles and tempfiles.log
+.idea/
+.site/
